@@ -1,10 +1,6 @@
 # 💼 Automated Resume Screening Tool (AI-Powered ATS)
 
-[![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Scikit--Learn-1.7+-orange.svg)](https://scikit-learn.org/)
-[![UI Framework](https://img.shields.io/badge/Streamlit-1.40+-red.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)]()
+
 
 > An industry-standard, explainable Natural Language Processing (NLP) and Machine Learning system that ingests resumes in multiple formats (PDF, DOCX, TXT), extracts applicant metadata and skills, maps them against target job descriptions, identifies must-have skill gaps, and calculates a fair, transparent ATS score via a Command-Line Interface (CLI) and an interactive Streamlit Recruiter Dashboard.
 
