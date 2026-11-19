@@ -1,0 +1,421 @@
+[
+  {
+    "extractor_data": {
+      "file_name": "resume_john_doe_senior_python.pdf",
+      "file_path": "E:\\IIT PROJECT\\PYTHON 1\\resumes\\resume_john_doe_senior_python.pdf",
+      "file_type": ".pdf",
+      "raw_text": "John Doe\njohn.doe.dev@gmail.com | +1 (555) 234-5678 | San Francisco, CA | linkedin.com/in/johndoepython\nPROFESSIONAL SUMMARY\nSenior Python Engineer with 5+ years of experience specializing in Machine Learning pipelines, backend REST APIs with\nFastAPI, and cloud deployment. Proven track record in Scikit-learn, Pandas, Docker, and PostgreSQL.\nTECHNICAL SKILLS\nKey Proficiencies: Python \u007f Machine Learning \u007f Scikit-learn \u007f Pandas \u007f NumPy \u007f FastAPI \u007f SQL \u007f PostgreSQL \u007f Docker \u007f\nAWS \u007f Git \u007f CI/CD \u007f NLP\nPROFESSIONAL EXPERIENCE\nLead Python & ML Developer \u2014 Cognitive Solutions Inc (2021 \u2013 Present)\n\u007f Engineered asynchronous microservices using FastAPI and Docker, handling 15M daily requests.\n\u007f Designed automated machine learning pipelines with Scikit-learn and Pandas for text classification and NLP.\n\u007f Optimized SQL queries and PostgreSQL database indexing, reducing query response latency by 42%.\n\u007f Integrated CI/CD pipelines via GitHub Actions and deployed containerized apps to AWS ECS.\nSoftware Engineer (Python/Data) \u2014 DataSphere Analytics (2019 \u2013 2021)\n\u007f Built feature engineering pipelines with NumPy and Pandas for predictive customer retention models.\n\u007f Developed RESTful APIs with Flask and Redis caching to serve model inference endpoints.\nEDUCATION\nB.S. in Computer Science \u2014 University of California, Berkeley (2019)\n",
+      "word_count": 192,
+      "candidate_name": "John Doe",
+      "email": "john.doe.dev@gmail.com",
+      "phone": "+1 (555) 234-5678",
+      "linkedin": "https://linkedin.com/in/johndoepython",
+      "github": "Not Found"
+    },
+    "skill_analysis": {
+      "candidate_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "feature engineering",
+        "flask",
+        "git",
+        "github",
+        "machine learning",
+        "microservices",
+        "nlp",
+        "numpy",
+        "pandas",
+        "postgresql",
+        "python",
+        "redis",
+        "scikit-learn",
+        "sql"
+      ],
+      "matched_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "feature engineering",
+        "git",
+        "machine learning",
+        "microservices",
+        "nlp",
+        "numpy",
+        "pandas",
+        "postgresql",
+        "python",
+        "redis",
+        "scikit-learn",
+        "sql"
+      ],
+      "matched_must_haves": [
+        "docker",
+        "fastapi",
+        "machine learning",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "sql"
+      ],
+      "missing_must_haves": [],
+      "missing_good_to_have": [
+        "agile",
+        "data pipelines",
+        "gcp",
+        "natural language processing",
+        "pytorch",
+        "teamwork",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "flask",
+        "github"
+      ],
+      "total_skills_found": 18,
+      "matched_skills_count": 16,
+      "missing_must_haves_count": 0,
+      "skill_match_ratio": 0.6957,
+      "must_have_coverage_ratio": 1.0
+    },
+    "score_details": {
+      "final_score": 81.33,
+      "tfidf_score_percent": 25.07,
+      "calibrated_tfidf_percent": 78.34,
+      "skill_match_percent": 69.57,
+      "must_have_percent": 100.0,
+      "status": "SHORTLISTED",
+      "tier": "Tier 1: High Match",
+      "explanation": "Candidate satisfies all mandatory requirements and exhibits strong contextual & technical competency."
+    },
+    "rank": 1
+  },
+  {
+    "extractor_data": {
+      "file_name": "resume_michael_brown_java_backend.pdf",
+      "file_path": "E:\\IIT PROJECT\\PYTHON 1\\resumes\\resume_michael_brown_java_backend.pdf",
+      "file_type": ".pdf",
+      "raw_text": "Michael Brown\nmichael.brown.tech@gmail.com | +1 (555) 432-1098 | Austin, TX | linkedin.com/in/michaelbrown-backend\nPROFESSIONAL SUMMARY\nBackend Software Engineer with 4 years building enterprise microservices using Java, Spring Boot, PostgreSQL, and Docker.\nExperience with AWS cloud infrastructure and CI/CD automation.\nTECHNICAL SKILLS\nKey Proficiencies: Java \u007f Spring Boot \u007f SQL \u007f PostgreSQL \u007f Docker \u007f AWS \u007f Git \u007f CI/CD \u007f Redis \u007f Microservices \u007f REST API\n\u007f Python\nPROFESSIONAL EXPERIENCE\nBackend Java Engineer \u2014 Fintech Enterprise Corp (2020 \u2013 Present)\n\u007f Developed high-throughput transaction microservices using Java and Spring Boot.\n\u007f Containerized backend applications using Docker and orchestrated deployments on AWS EKS.\n\u007f Wrote automated unit tests and maintained CI/CD pipelines in GitLab.\nEDUCATION\nB.S. in Software Engineering \u2014 University of Texas at Austin (2020)\n",
+      "word_count": 124,
+      "candidate_name": "Michael Brown",
+      "email": "michael.brown.tech@gmail.com",
+      "phone": "+1 (555) 432-1098",
+      "linkedin": "https://linkedin.com/in/michaelbrown-backend",
+      "github": "Not Found"
+    },
+    "skill_analysis": {
+      "candidate_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "git",
+        "gitlab",
+        "java",
+        "microservices",
+        "postgresql",
+        "python",
+        "redis",
+        "rest api",
+        "spring boot",
+        "sql"
+      ],
+      "matched_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "git",
+        "microservices",
+        "postgresql",
+        "python",
+        "redis",
+        "sql"
+      ],
+      "matched_must_haves": [
+        "docker",
+        "python",
+        "sql"
+      ],
+      "missing_must_haves": [
+        "fastapi",
+        "machine learning",
+        "pandas",
+        "scikit-learn"
+      ],
+      "missing_good_to_have": [
+        "agile",
+        "data pipelines",
+        "feature engineering",
+        "gcp",
+        "natural language processing",
+        "nlp",
+        "numpy",
+        "pytorch",
+        "teamwork",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "gitlab",
+        "java",
+        "rest api",
+        "spring boot"
+      ],
+      "total_skills_found": 13,
+      "matched_skills_count": 9,
+      "missing_must_haves_count": 4,
+      "skill_match_ratio": 0.3913,
+      "must_have_coverage_ratio": 0.4286
+    },
+    "score_details": {
+      "final_score": 38.5,
+      "tfidf_score_percent": 10.66,
+      "calibrated_tfidf_percent": 33.31,
+      "skill_match_percent": 39.13,
+      "must_have_percent": 42.86,
+      "status": "REJECTED",
+      "tier": "Tier 3: Low Match / Critical Gap",
+      "explanation": "Candidate missing 4 mandatory must-have core skills."
+    },
+    "rank": 2
+  },
+  {
+    "extractor_data": {
+      "file_name": "resume_priya_sharma_data_analyst.pdf",
+      "file_path": "E:\\IIT PROJECT\\PYTHON 1\\resumes\\resume_priya_sharma_data_analyst.pdf",
+      "file_type": ".pdf",
+      "raw_text": "Priya Sharma\npriya.sharma.analytics@outlook.com | +1 (555) 876-5432 | Chicago, IL | linkedin.com/in/priyasharma-data\nPROFESSIONAL SUMMARY\nData Analyst with 3 years of experience in data visualization, SQL queries, business intelligence, and Python data\nmanipulation. Proficient in Tableau, Power BI, Excel, Pandas, and statistics.\nTECHNICAL SKILLS\nKey Proficiencies: Python \u007f Pandas \u007f NumPy \u007f SQL \u007f Tableau \u007f Power BI \u007f Excel \u007f Data Visualization \u007f Statistics \u007f Git \u007f\nMachine Learning\nPROFESSIONAL EXPERIENCE\nBusiness Data Analyst \u2014 Apex Financial Group (2022 \u2013 Present)\n\u007f Created interactive executive dashboards using Tableau and Power BI for tracking KPIs.\n\u007f Extracted and transformed complex datasets using SQL and Python Pandas.\n\u007f Conducted A/B testing and statistical analysis to improve conversion rates by 18%.\nEDUCATION\nB.S. in Statistics and Data Analytics \u2014 University of Illinois (2022)\n",
+      "word_count": 130,
+      "candidate_name": "Priya Sharma",
+      "email": "priya.sharma.analytics@outlook.com",
+      "phone": "+1 (555) 876-5432",
+      "linkedin": "https://linkedin.com/in/priyasharma-data",
+      "github": "Not Found"
+    },
+    "skill_analysis": {
+      "candidate_skills": [
+        "a/b testing",
+        "business intelligence",
+        "data visualization",
+        "excel",
+        "git",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "matched_skills": [
+        "git",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "matched_must_haves": [
+        "machine learning",
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "missing_must_haves": [
+        "docker",
+        "fastapi",
+        "scikit-learn"
+      ],
+      "missing_good_to_have": [
+        "agile",
+        "aws",
+        "ci/cd",
+        "data pipelines",
+        "feature engineering",
+        "gcp",
+        "microservices",
+        "natural language processing",
+        "nlp",
+        "postgresql",
+        "pytorch",
+        "redis",
+        "teamwork",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "a/b testing",
+        "business intelligence",
+        "data visualization",
+        "excel",
+        "power bi",
+        "statistics",
+        "tableau"
+      ],
+      "total_skills_found": 13,
+      "matched_skills_count": 6,
+      "missing_must_haves_count": 3,
+      "skill_match_ratio": 0.2609,
+      "must_have_coverage_ratio": 0.5714
+    },
+    "score_details": {
+      "final_score": 34.26,
+      "tfidf_score_percent": 7.13,
+      "calibrated_tfidf_percent": 22.28,
+      "skill_match_percent": 26.09,
+      "must_have_percent": 57.14,
+      "status": "REJECTED",
+      "tier": "Tier 3: Low Match / Critical Gap",
+      "explanation": "Candidate missing 3 mandatory must-have core skills."
+    },
+    "rank": 3
+  },
+  {
+    "extractor_data": {
+      "file_name": "resume_alex_smith_frontend_dev.docx",
+      "file_path": "E:\\IIT PROJECT\\PYTHON 1\\resumes\\resume_alex_smith_frontend_dev.docx",
+      "file_type": ".docx",
+      "raw_text": "Alex Smith\nalex.smith.ui@yahoo.com | +1 (555) 321-7654 | New York, NY | linkedin.com/in/alexsmith-frontend\nPROFESSIONAL SUMMARY\nCreative Frontend Developer with 3+ years experience building dynamic, responsive single-page web applications using React, TypeScript, JavaScript, HTML, and CSS.\nTECHNICAL SKILLS\nSkills & Tools: JavaScript, TypeScript, React.js, HTML, CSS, Node.js, Git, Webpack, Tailwind CSS, REST API\nWORK EXPERIENCE\nFrontend Web Developer | PixelCraft Studios (2021 \u2013 Present)\nDeveloped responsive web interfaces using React and modern component libraries.\nCollaborated with UI/UX designers to translate Figma mockups into production-ready frontends.\nIntegrated RESTful API endpoints and optimized client-side performance.\nEDUCATION\nB.A. in Interactive Media \u2014 New York University (2021)",
+      "word_count": 102,
+      "candidate_name": "Alex Smith",
+      "email": "alex.smith.ui@yahoo.com",
+      "phone": "+1 (555) 321-7654",
+      "linkedin": "https://linkedin.com/in/alexsmith-frontend",
+      "github": "Not Found"
+    },
+    "skill_analysis": {
+      "candidate_skills": [
+        "css",
+        "git",
+        "html",
+        "javascript",
+        "node.js",
+        "rest api",
+        "restful api",
+        "typescript"
+      ],
+      "matched_skills": [
+        "git"
+      ],
+      "matched_must_haves": [],
+      "missing_must_haves": [
+        "docker",
+        "fastapi",
+        "machine learning",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "sql"
+      ],
+      "missing_good_to_have": [
+        "agile",
+        "aws",
+        "ci/cd",
+        "data pipelines",
+        "feature engineering",
+        "gcp",
+        "microservices",
+        "natural language processing",
+        "nlp",
+        "numpy",
+        "postgresql",
+        "pytorch",
+        "redis",
+        "teamwork",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "css",
+        "html",
+        "javascript",
+        "node.js",
+        "rest api",
+        "restful api",
+        "typescript"
+      ],
+      "total_skills_found": 8,
+      "matched_skills_count": 1,
+      "missing_must_haves_count": 7,
+      "skill_match_ratio": 0.0435,
+      "must_have_coverage_ratio": 0.0
+    },
+    "score_details": {
+      "final_score": 3.1,
+      "tfidf_score_percent": 1.45,
+      "calibrated_tfidf_percent": 4.53,
+      "skill_match_percent": 4.35,
+      "must_have_percent": 0.0,
+      "status": "REJECTED",
+      "tier": "Tier 3: Low Match / Critical Gap",
+      "explanation": "Candidate missing 7 mandatory must-have core skills."
+    },
+    "rank": 4
+  },
+  {
+    "extractor_data": {
+      "file_name": "resume_emily_clark_digital_marketing.docx",
+      "file_path": "E:\\IIT PROJECT\\PYTHON 1\\resumes\\resume_emily_clark_digital_marketing.docx",
+      "file_type": ".docx",
+      "raw_text": "Emily Clark\nemily.clark.marketing@gmail.com | +1 (555) 987-6543 | Seattle, WA | linkedin.com/in/emilyclark-growth\nPROFESSIONAL SUMMARY\nResults-oriented Digital Marketing Specialist with 4 years driving brand growth through SEO, Google Ads, content marketing campaigns, and social media analytics.\nTECHNICAL SKILLS\nSkills & Tools: Search Engine Optimization (SEO), Google Ads, Content Marketing, Social Media Management, Email Marketing, Copywriting, Communication\nWORK EXPERIENCE\nDigital Marketing Strategist | Global Brand Marketing (2020 \u2013 Present)\nManaged multi-channel paid acquisition campaigns generating \\$2.4M in pipeline.\nConducted keyword research and optimized on-page SEO to increase organic search traffic by 65%.\nCollaborated with creative teams to produce branded content and social media assets.\nEDUCATION\nB.A. in Marketing & Communications \u2014 University of Washington (2020)",
+      "word_count": 113,
+      "candidate_name": "Emily Clark",
+      "email": "emily.clark.marketing@gmail.com",
+      "phone": "+1 (555) 987-6543",
+      "linkedin": "https://linkedin.com/in/emilyclark-growth",
+      "github": "Not Found"
+    },
+    "skill_analysis": {
+      "candidate_skills": [
+        "communication"
+      ],
+      "matched_skills": [],
+      "matched_must_haves": [],
+      "missing_must_haves": [
+        "docker",
+        "fastapi",
+        "machine learning",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "sql"
+      ],
+      "missing_good_to_have": [
+        "agile",
+        "aws",
+        "ci/cd",
+        "data pipelines",
+        "feature engineering",
+        "gcp",
+        "git",
+        "microservices",
+        "natural language processing",
+        "nlp",
+        "numpy",
+        "postgresql",
+        "pytorch",
+        "redis",
+        "teamwork",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "communication"
+      ],
+      "total_skills_found": 1,
+      "matched_skills_count": 0,
+      "missing_must_haves_count": 7,
+      "skill_match_ratio": 0.0,
+      "must_have_coverage_ratio": 0.0
+    },
+    "score_details": {
+      "final_score": 0.14,
+      "tfidf_score_percent": 0.15,
+      "calibrated_tfidf_percent": 0.47,
+      "skill_match_percent": 0.0,
+      "must_have_percent": 0.0,
+      "status": "REJECTED",
+      "tier": "Tier 3: Low Match / Critical Gap",
+      "explanation": "Candidate missing 7 mandatory must-have core skills."
+    },
+    "rank": 5
+  }
+]
